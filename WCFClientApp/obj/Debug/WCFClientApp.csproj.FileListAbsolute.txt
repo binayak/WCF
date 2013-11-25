@@ -1,0 +1,9 @@
+C:\Users\bisilwal\documents\visual studio 2013\Projects\WcfServiceApp\WCFClientApp\bin\Debug\WCFClientApp.exe.config
+C:\Users\bisilwal\documents\visual studio 2013\Projects\WcfServiceApp\WCFClientApp\bin\Debug\WCFClientApp.exe
+C:\Users\bisilwal\documents\visual studio 2013\Projects\WcfServiceApp\WCFClientApp\bin\Debug\WCFClientApp.pdb
+C:\Users\bisilwal\documents\visual studio 2013\Projects\WcfServiceApp\WCFClientApp\obj\Debug\WCFClientApp.csprojResolveAssemblyReference.cache
+C:\Users\bisilwal\documents\visual studio 2013\Projects\WcfServiceApp\WCFClientApp\obj\Debug\WCFClientApp.Form1.resources
+C:\Users\bisilwal\documents\visual studio 2013\Projects\WcfServiceApp\WCFClientApp\obj\Debug\WCFClientApp.Properties.Resources.resources
+C:\Users\bisilwal\documents\visual studio 2013\Projects\WcfServiceApp\WCFClientApp\obj\Debug\WCFClientApp.csproj.GenerateResource.Cache
+C:\Users\bisilwal\documents\visual studio 2013\Projects\WcfServiceApp\WCFClientApp\obj\Debug\WCFClientApp.exe
+C:\Users\bisilwal\documents\visual studio 2013\Projects\WcfServiceApp\WCFClientApp\obj\Debug\WCFClientApp.pdb
